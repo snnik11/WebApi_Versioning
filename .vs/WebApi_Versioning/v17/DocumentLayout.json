@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\controllers\\v2\\employeesconntroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\v2\\employeesconntroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\controllers\\v1\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\v1\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\controllers\\v2\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\controllers\\v2\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|c:\\nikita\\learncode\\practicesesh\\webapi_versioning\\webapi_versioning\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C31490C-EDB2-4947-9137-7362FBD2FE58}|WebApi_Versioning\\WebApi_Versioning.csproj|solutionrelative:webapi_versioning\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:17:40.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesConntroller.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v2\\EmployeesConntroller.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\v2\\EmployeesConntroller.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v2\\EmployeesConntroller.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\v2\\EmployeesConntroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:06:16.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v1\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\v1\\UserController.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v1\\UserController.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\v1\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:54:44.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi_Versioning\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T11:38:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v1\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\v1\\ValuesController.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v1\\ValuesController.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\v1\\ValuesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:06:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v2\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Controllers\\v2\\UserController.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Controllers\\v2\\UserController.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Controllers\\v2\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:20:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_Versioning\\Program.cs",
+              "ToolTip": "C:\\Nikita\\LearnCode\\PracticeSesh\\WebApi_Versioning\\WebApi_Versioning\\Program.cs",
+              "RelativeToolTip": "WebApi_Versioning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:19:22.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
